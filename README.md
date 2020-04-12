@@ -6,13 +6,13 @@ Import MongoDB Net Driver using Package Manager
 PM>Install-Package MongoDB.Driver -Version 2.7.3
 
 
-#Object Properties on User Interface
-
-TextBox1 --> txtnim
-TextBox2 --> txtnama
-TextBox3 --> txtemail
-
-Button1 --> btnSimpan
-Button2 --> btnHapus
-
+#Object Properties on User Interface<br/>
+<br/>
+TextBox1 --> txtnim<br/>
+TextBox2 --> txtnama<br/>
+TextBox3 --> txtemail<br/>
+<br/>
+Button1 --> btnSimpan<br/>
+Button2 --> btnHapus<br/>
+<br/>
 DataGridView1 --> grid
